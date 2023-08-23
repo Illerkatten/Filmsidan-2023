@@ -1,0 +1,19 @@
+body {
+    color: aqua;
+    background-color: darkblue;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 1.7rem;
+    font-weight: bolder;
+}
+
+.poster {
+    width: auto;
+    height: 50vh;
+}
+
+p {
+    font-size: 1.2rem;
+}
